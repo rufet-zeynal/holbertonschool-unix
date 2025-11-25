@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | tail -1                                                                                                                                                                      !i        1,0-1         A
+head -n 3 iacta | tail -n 1                                                                                                                                                                      !i        1,0-1         A
